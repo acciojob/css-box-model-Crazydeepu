@@ -2,7 +2,7 @@
 /* Your CSS Code here. */
 div{
 	padding:50px;
-	background-color:lightblue;
+	/*background-color:lightblue;*/
 	border:15px solid blue;
 	margin:20px;
 }
