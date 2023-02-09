@@ -1,7 +1,10 @@
 
 /* Your CSS Code here. */
+p{
+	padding:50px lightblue;
+}
+
 div{
-	padding:50px color:lightblue;
 	border:15px solid blue;
 	margin:20px;
 }
